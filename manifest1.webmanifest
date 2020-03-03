@@ -1,0 +1,27 @@
+{
+  "dir": "ltr",
+  "lang": "en-us",
+  "name": "Behlen",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "./Default.aspx",
+  "short_name": "Behlen",
+  "theme_color": "transparent",
+  "description": "Behlen Mobile Application",
+  "orientation": "any",
+  "background_color": "transparent",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "Images/AimLogo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Images/AimLogo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
